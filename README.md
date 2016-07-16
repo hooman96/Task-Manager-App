@@ -7,4 +7,4 @@ Cross platform version is also written with QML technology.
 
 You can contribute by creating Windows, Mac OS and web platforms. 
 
-![alt tag](https://www.dropbox.com/home/CS%20Projecs/task_manager_app?preview=Screen+Shot+2016-07-16+at+4.12.09+PM.png)
+![alt tag]https://photos-2.dropbox.com/t/2/AACxOBss4ia1_OAX3uXgfdlNDfX0TWGXwa7YyuR_2-tajQ/12/378637189/png/32x32/1/_/1/2/Screen%20Shot%202016-07-16%20at%204.12.09%20PM.png/EMqWg4EDGIAZIAIoAg/MXAtFpepCa2ic_jQ-0Tn-NEsc62XepfzFsK5qa1EmNU?dl=0&size=2048x1536&size_mode=3
